@@ -76,19 +76,25 @@ Este asistente de voz está diseñado para ejecutar comandos del sistema, respon
 
 ## 🚀 Instalación
 
-### Prerrequisitos
+### 1. Clonar el repositorio
 ```bash
-pip install speech_recognition pyttsx3 psutil ollama
+git clone https://github.com/tuusuario/voice-assistant.git
+cd voice-assistant
 ```
 
-### Configurar Ollama
+### 2. Instalar dependencias de Python
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Configurar Ollama
 1. Instalar Ollama desde: https://ollama.ai/download
 2. Descargar el modelo:
 ```bash
 ollama pull llama3.2:1b
 ```
 
-### Ejecutar el Asistente
+### 4. Ejecutar el Asistente
 ```bash
 python voice_assistant.py
 ```
@@ -123,8 +129,6 @@ python voice_assistant.py
 
 ---
 **Desarrollado con ❤️ para automatización personal y productividad**
-
-
 
 
 <!-- # 🎤 Asistente de Voz Local con IA
