@@ -82,19 +82,24 @@ git clone https://github.com/tuusuario/voice-assistant.git
 cd voice-assistant
 ```
 
-### 2. Instalar dependencias de Python
+### 2. Crear entorno virtual
+```bash
+python -m venv venv
+```
+
+### 3. Instalar dependencias de Python
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Configurar Ollama
+### 4. Configurar Ollama
 1. Instalar Ollama desde: https://ollama.ai/download
 2. Descargar el modelo:
 ```bash
 ollama pull llama3.2:1b
 ```
 
-### 4. Ejecutar el Asistente
+### 5. Ejecutar el Asistente
 ```bash
 python voice_assistant.py
 ```
