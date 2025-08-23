@@ -1,0 +1,113 @@
+# ===========================================
+# JARVIS VOICE ASSISTANT - .gitignore
+# ===========================================
+
+# Entorno virtual de Python
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Modelos de Vosk (se descargan automáticamente)
+vosk-model*/
+*.zip
+
+# Archivos de configuración local
+.env
+.env.local
+.env.*.local
+config.local.*
+
+# Logs del asistente
+*.log
+logs/
+assistant.log
+
+# Archivos temporales del sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Archivos de Windows
+*.tmp
+*.temp
+~*
+
+# Archivos de audio temporales
+*.wav
+*.mp3
+*.ogg
+temp_audio/
+recordings/
+
+# Cache de reconocimiento de voz
+voice_cache/
+speech_cache/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos de respaldo
+*.bak
+*.backup
+*.old
+
+# Instaladores temporales
+ollama-installer.exe
+*.msi
+*.exe
+
+# Cache de pip
+.cache/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de test
+test_recordings/
+debug/
+
+# Configuraciones personales
+user_config.json
+personal_settings.py
+
+# Archivos de base de datos local (si los usas)
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos de sistema de Ollama (se instalan automáticamente)
+# Nota: Ollama se instala en el sistema, no en el proyecto

@@ -34,7 +34,7 @@ Este asistente de voz está diseñado para ejecutar comandos del sistema, respon
 ## 🛠️ Características Técnicas
 
 ### ✨ Características Funcionales
-- **Activación por palabra clave**: Responde solo cuando escucha "asistente"
+- **Activación por palabra clave**: Responde solo cuando escucha "JARVIS"
 - **Procesamiento offline**: Funciona sin conexión a internet (excepto búsquedas web)
 - **Monitoreo de recursos**: Supervisa el sistema en segundo plano
 - **Feedback auditivo**: Pitidos de confirmación y respuestas por voz
