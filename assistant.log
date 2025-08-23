@@ -6964,3 +6964,21 @@
 2025-08-22 01:45:08,996 - INFO - Asistente inicializado. Palabra clave: 'jarvis'
 2025-08-22 01:45:18,216 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
 2025-08-22 01:45:18,216 - ERROR - Error con Ollama: model "llama3.2:1b" not found, try pulling it first (status code: 404)
+2025-08-22 22:24:09,954 - INFO - Imported existing <module 'comtypes.gen' from 'E:\\code_ex\\VAPA_local\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-22 22:24:09,967 - INFO - Using writeable comtypes cache directory: 'E:\code_ex\VAPA_local\env\Lib\site-packages\comtypes\gen'
+2025-08-22 22:24:11,546 - INFO - Asistente inicializado. Palabra clave: 'jarvis'
+2025-08-22 22:24:39,696 - ERROR - Error con Ollama: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2025-08-22 22:25:11,709 - INFO - Imported existing <module 'comtypes.gen' from 'E:\\code_ex\\VAPA_local\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-22 22:25:11,709 - INFO - Using writeable comtypes cache directory: 'E:\code_ex\VAPA_local\env\Lib\site-packages\comtypes\gen'
+2025-08-22 22:25:12,925 - INFO - Asistente inicializado. Palabra clave: 'yarvis'
+2025-08-22 22:33:21,613 - INFO - Imported existing <module 'comtypes.gen' from 'E:\\code_ex\\VAPA_local\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-22 22:33:21,613 - INFO - Using writeable comtypes cache directory: 'E:\code_ex\VAPA_local\env\Lib\site-packages\comtypes\gen'
+2025-08-22 22:33:22,840 - INFO - Asistente inicializado. Palabra clave: 'jarvis'
+2025-08-22 22:33:34,584 - ERROR - Error con Ollama: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2025-08-22 22:37:10,210 - INFO - Imported existing <module 'comtypes.gen' from 'E:\\code_ex\\VAPA_local\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-22 22:37:10,210 - INFO - Using writeable comtypes cache directory: 'E:\code_ex\VAPA_local\env\Lib\site-packages\comtypes\gen'
+2025-08-22 22:37:11,413 - INFO - Asistente inicializado. Palabra clave: 'jarvis'
+2025-08-22 22:37:23,207 - ERROR - Error con Ollama: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2025-08-22 22:43:00,989 - INFO - Imported existing <module 'comtypes.gen' from 'E:\\code_ex\\VAPA_local\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-22 22:43:00,989 - INFO - Using writeable comtypes cache directory: 'E:\code_ex\VAPA_local\env\Lib\site-packages\comtypes\gen'
+2025-08-22 22:43:02,201 - INFO - Asistente inicializado. Palabra clave: 'jarvis escuchame'
