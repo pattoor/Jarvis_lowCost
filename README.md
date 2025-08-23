@@ -87,22 +87,18 @@ cd voice-assistant
 python -m venv venv
 ```
 
-### 3. Instalar dependencias de Python
-```bash
-pip install -r requirements.txt
-```
+## Instrucciones de uso:
+Para instalar desde cero:
 
-### 4. Configurar Ollama
-1. Instalar Ollama desde: https://ollama.ai/download
-2. Descargar el modelo:
-```bash
-ollama pull llama3.2:1b
-```
+Clona el repo
+crea un entorno virtual(opcional): python -m venv venv
+Ejecuta setup.bat
+Espera (descarga ~100MB entre Vosk, Ollama y modelo IA)
 
-### 5. Ejecutar el Asistente
-```bash
-python voice_assistant.py
-```
+#### Para usar diariamente:
+
+Ejecuta start_jarvis.bat
+Listo para usar
 
 ## 📋 Uso
 
